@@ -1,6 +1,6 @@
 # Unit 12—Tales from the Crypto
 
-![Stock Sentiment](Images/sentimental.jpeg)
+![](https://github.com/NLP_HW/Images/lambo.gif)
 
 ## Background
 
