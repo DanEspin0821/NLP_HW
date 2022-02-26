@@ -1,6 +1,6 @@
 # Unit 12—Tales from the Crypto
 
-![](https://github.com/NLP_HW/lambo.gif)
+![](https://github.com/DanEspin0821/NLP_HW/blob/main/Images/lambo.gif)
 
 ## Background
 
